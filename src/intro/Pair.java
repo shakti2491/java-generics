@@ -1,3 +1,5 @@
+package intro;
+
 public class Pair<X,Y> {
     private X first;
     private Y second;
